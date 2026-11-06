@@ -1,0 +1,1 @@
+SELECT * FROM airline_flights.default.gold_data_quality;
